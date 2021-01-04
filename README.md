@@ -1,3 +1,6 @@
+Aşağıdaki Örnek uygulamadan faydalanarak yaptığım veri tabanlı qr kod okuyarak öğrenci yoklaması alan Android Projesi
+
+
 # QR CODE Scanner & Generator
 
 A new Flutter project on QR Code Scanning and generating it for perosnal and business usage.
